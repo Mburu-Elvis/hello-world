@@ -8,5 +8,4 @@
 
 ---
 
-It is getting sweet by day with git :Joy:
-
+It is getting sweet by day with git :joy:
