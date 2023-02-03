@@ -1,4 +1,6 @@
-# hello-world
+# Hello World
+---
+
 **Git Recap**
 1. Create a repo called hello world
 2. Initialize a local folder to a repo using git init
